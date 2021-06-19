@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\lvpin\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\lvpin\\.nuget\\packages"
-    ]
-  }
-}
